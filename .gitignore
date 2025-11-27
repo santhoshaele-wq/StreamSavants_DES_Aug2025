@@ -1,0 +1,21 @@
+# Spark outputs
+tmp/
+stroke_predictions/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

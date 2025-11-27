@@ -1,0 +1,6 @@
+{
+  "bootstrap_servers": "localhost:9092",
+  "input_topic": "StrokePrediction",
+  "group_id": "stroke-prediction-consumer",
+  "auto_offset_reset": "earliest"
+}
